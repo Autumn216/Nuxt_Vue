@@ -1,0 +1,17 @@
+{
+  "name": "auth-routes",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.15.2",
+    "cross-env": "^3.1.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production & node server.js"
+  }
+}

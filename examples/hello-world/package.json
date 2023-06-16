@@ -1,0 +1,9 @@
+{
+  "name": "hello-nuxt",
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "start": "nuxt"
+  }
+}
